@@ -1,0 +1,464 @@
+ html
+        {
+            background-color: rgb(247, 228, 228);
+
+        }
+        
+        .Cabeçalho
+        {
+            background-color: rgba(209, 28, 85, 0.944);
+            height: 60px;
+            position: relative;
+            border-radius: 5px;
+             
+            
+           
+            
+           
+
+        }
+
+        .cabeça
+        {
+            color: rgb(151, 23, 23);
+           font-family: 'Emilys Candy';      
+           padding-left: 15px;
+           padding-right: 15px;
+           background-color:  rgb(247, 228, 228); 
+           margin: 3px;
+            border-radius: 20px;
+            border-color: black;
+            text-decoration: none;
+            
+        }
+        .links
+        {
+            display: flex;
+            flex-direction: space-evenly;
+            position: absolute;
+            padding-top: 34px; 
+            padding-left: 30px;
+           
+           
+             
+        
+        }
+        .cabeça:hover
+        {
+            background-color: rgba(89, 25, 19, 0.944);
+            color: rgb(247, 228, 228);
+        }
+        .letraloja
+        {
+            font-family: 'Henny Penny';
+            font-size: 30px;
+            display: flex;
+            color: rgb(247, 228, 228);  
+            justify-content: flex-end;
+            padding-right: 20px;
+            
+        }
+         
+         
+        .Receitas {
+          display: flex;
+          background-color: rgba(209, 28, 85, 0.944);
+          border-radius: 50px;
+          margin-top: 40px;
+          margin-bottom: 35px;
+          margin-left: 6px;
+          margin-right: 8px;
+          padding-left: 200px;
+          
+         
+          
+        }
+         
+       .Receitas img { 
+         margin-left: 8px;
+         margin-right: 10px;
+         margin-bottom: 35px;
+         margin-top: 35px;
+         width:175px;
+         height:175px;
+         border-radius: 25%;
+         display: flex;
+         flex-direction: space-evenly;
+         justify-content: center;
+         border: 5px groove white;
+         box-sizing: border-box;
+       }
+       
+       .Titulo {
+         
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    color: rgb(48,4,26);
+    display: flex;
+    justify-content: center;
+    
+       }
+       
+       .Titulo2 {
+        
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  font-style: normal;
+color: rgb(48,4,26);
+  display: flex;
+    justify-content: center;
+       }
+       
+       .Brig {
+         display:flex;
+       }
+       .Receitinhas img {
+         margin-left: 100px;
+         margin-right: 10px;
+         margin-bottom: 10px;
+         margin-top: 75px;
+         width:250px;
+         height:250px;
+         border-radius: 49%;
+         border: 5px groove white;
+         box-sizing: border-box;
+       }
+       .Brig p {
+         margin-top: 160px;
+         margin-left: 40px;
+         font-size: 40px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+       }
+       
+       .Receitinhas {
+       height: 800px;
+       border-radius: 50px;
+       margin: 50px;
+       background-color: rgb(247, 228, 228);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+       }
+       
+       
+       .Receitinhas ul {
+         margin-left: 50px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+         
+       }
+       
+       .IngredientesB p {
+         font-size: 20px;
+         margin-top:30px;
+         margin-left:20px; 
+         
+       }
+       
+       .Receitinhas ol {
+         margin-left: 40px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+        margin-right:5px;
+         
+       }
+       
+       .Receitinhas2 {
+         height: 950px;
+       border-radius: 50px;
+       margin: 10px;
+       background-color: rgb(247, 228, 228);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+       }
+       
+       .Brownie {
+         display:flex;
+       }
+       
+       .Receitinhas2 img {
+         margin-left: 100px;
+         margin-right: 10px;
+         margin-bottom: 10px;
+         margin-top: 75px;
+         width:250px;
+         height:250px;
+         border-radius: 49%;
+         border: 5px groove white;
+         box-sizing: border-box;
+       }
+       
+       .Brownie p {
+         margin-top: 160px;
+         margin-left: 40px;
+         font-size: 40px;
+         font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+        
+       }
+       
+       .Receitinhas2 ul {
+         margin-left: 50px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+       }
+       
+       .Receitinhas2 ol {
+         margin-left: 40px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+        margin-right:5px;
+         
+       }
+       
+       <!-- -->
+       
+       .Receitinhas3 {
+         height: 850px;
+       border-radius: 50px;
+       margin: 50px;
+       background-color: rgb(247, 228, 228);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+       }
+       
+       .Mousse {
+         display:flex;
+       }
+       
+       .Receitinhas3 img {
+         margin-left: 100px;
+         margin-right: 10px;
+         margin-bottom: 10px;
+         margin-top: 75px;
+         width:250px;
+         height:250px;
+         border-radius: 49%;
+         border: 5px groove white;
+         box-sizing: border-box;
+       }
+       
+       .Mousse p {
+         margin-top: 160px;
+         margin-left: 40px;
+         font-size: 40px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+       }
+       
+       .Receitinhas3 ul{
+         margin-left: 50px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+       }
+       
+       .Receitinhas3 ol{
+         margin-left: 40px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+        margin-right:5px;
+         
+       }
+       
+              <!-- -->
+       
+       .Receitinhas4 {
+height: 1000px;
+       border-radius: 50px;
+       margin: 50px;
+       background-color: rgb(247, 228, 228);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+       }
+       
+       .Macaron {
+display:flex;
+       }
+       
+       .Receitinhas4 img {
+margin-left: 100px;
+         margin-right: 10px;
+         margin-bottom: 10px;
+         margin-top: 75px;
+         width:250px;
+         height:250px;
+         border-radius: 49%;
+         border: 5px groove white;
+         box-sizing: border-box;
+       }
+       
+       .Macaron p {
+margin-top: 160px;
+         margin-left: 40px;
+         font-size: 40px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+       }
+       
+       .Receitinhas4 ul{
+margin-left: 50px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+       }
+       
+       .Receitinhas4 ol{
+margin-left: 40px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+        margin-right:5px;
+         
+       }
+       
+             <!-- -->
+       
+       .Receitinhas5 {
+height: 1030px;
+       border-radius: 50px;
+       margin: 50px;
+       background-color: rgb(247, 228, 228);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+       }
+       
+       .Cupcake {
+display:flex;
+       }
+       
+       .Receitinhas5 img {
+margin-left: 100px;
+         margin-right: 10px;
+         margin-bottom: 10px;
+         margin-top: 75px;
+         width:250px;
+         height:250px;
+         border-radius: 49%;
+         border: 5px groove white;
+         box-sizing: border-box;
+       }
+       
+       .Cupcake p {
+margin-top: 160px;
+         margin-left: 40px;
+         font-size: 40px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48,4,26);
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+       }
+       
+       .Receitinhas5 ul{
+margin-left: 50px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+       }
+       
+       .Receitinhas5 ol{
+margin-left: 40px;
+         font-size: 20px;
+         margin-top: 50px;
+         margin-bottom: 10px;
+        margin-right:5px;
+         
+       }
+       .Rodapé
+        {
+            background-color: rgba(209, 28, 85, 0.944);
+            height: 330px;
+            position: relative;
+            border-radius: 5px;
+        }
+       .Ll
+        {
+            padding: 0px 80px;
+        }
+        .logo
+        {
+            
+            display: flex;
+            flex-direction: space-evenly;
+            justify-content: center;
+          
+            
+        }
+       
+        .Tt2
+        {
+           color: rgb(247, 228, 228);
+             display: flex;
+            
+            justify-content: center;
+           
+        }
+        .ajusteLogo
+        {
+            padding-left: 30px;
+        }
+         .ajusteLogo1
+        {
+            padding-left: 25px;
+        }
+         .ajusteLogo2
+        {
+            padding-left: 43px;
+        }
+         .Tt2:hover
+        {
+            color: rgba(89, 25, 19, 0.944);
+        }
+        .social
+        {
+            color:rgb(247, 228, 228) ;
+            display: flex;
+            justify-content: center;
+            padding-bottom: 50px;  
+            
+        }
+        .SemCriatividade
+        {
+            color:rgb(247, 228, 228) ;
+            padding-top: 50px;
+            padding-left: 20px;
+             
+
+        }
+         .contatoEstilo
+        {
+            text-decoration: none;     
+        }

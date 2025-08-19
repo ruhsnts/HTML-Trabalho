@@ -1,0 +1,179 @@
+  html
+        {
+            background-color:rgb(247, 228, 228);
+        }
+        .Cabeçalho
+        {
+            background-color: rgba(209, 28, 85, 0.944);
+            height: 60px;
+            position: relative;
+            border-radius: 5px;
+        }
+        .cabeça
+        {
+            color: rgb(151, 23, 23);
+           font-family: 'Emilys Candy';      
+           padding-left: 15px;
+           padding-right: 15px;
+           background-color:  rgb(247, 228, 228); 
+           margin: 3px;
+            border-radius: 20px;
+            border-color: black;
+            text-decoration: none;
+        }
+        .links
+        {
+            display: flex;
+            flex-direction: space-evenly;
+            position: absolute;
+            padding-top: 34px; 
+            padding-left: 30px;
+        
+        }
+                .cabeça:hover
+        {
+            background-color: rgba(89, 25, 19, 0.944);
+            color: rgb(247, 228, 228);
+        }
+        .letraloja
+        {
+            font-family: 'Henny Penny';
+            font-size: 30px;
+            display: flex;
+            color: rgb(247, 228, 228);  
+            justify-content: flex-end;
+            padding-right: 20px;
+        }
+       
+        .list-ul{
+          
+            list-style-type: disc;
+               list-style-position: outside;
+                 list-style-image: url(cupcake\ 2.png);
+        }
+     ol.romana{
+      list-style-type: upper-roman; /* usa números romanos */
+       padding-left: 25px; /* espaço da margem */
+      margin-bottom: 10px; /* espaçamento entre os itens */
+      text-transform: capitalize;
+      /* text-align: start; */
+       /* text-align: center;  */
+      font-family: 'Times New Roman', Times, serif;
+      list-style-position: outside;
+    }
+ .social-medias{
+
+    
+    padding-left: 10px;
+    padding-right: 15px;
+    color: rgb(151, 23, 23);
+       background-color:  rgb(238, 217, 180);
+        margin: 3px;
+        border-radius: 5px;
+        border-color: black; 
+            text-transform: capitalize; 
+            font-family: 'Emilys Candy'; 
+ }
+
+ .first-steps{
+
+    color: rgb(151, 23, 23); 
+         text-transform: capitalize; 
+               font-family: Arial, Helvetica, sans-serif;  
+                     text-align: start;
+ }
+ .História{
+color: rgb(15, 15, 15);
+background-color: rgba(224, 43, 112, 0.774);
+text-transform: uppercase;
+text-align: center;
+margin-top: -1px;
+}
+.text{
+ text-transform: capitalize; 
+               font-family: Verdana, Geneva, Tahoma, sans-serif;  
+                      text-align: start; 
+                         padding: 20px; 
+                            font-size: 20px;
+                    
+}
+.text-2{
+ color: rgb(112, 7, 16);
+    text-transform: capitalize; 
+            font-family: Verdana, Geneva, Tahoma, sans-serif;  
+                    text-align: start;    
+                      padding: 20px; 
+}
+.text-3{
+ color: rgb(85, 0, 7);
+    text-transform: capitalize; 
+               font-family: Verdana, Geneva, Tahoma, sans-serif;  
+                      text-align: start;
+                        padding: 20px; 
+}
+ .Rodapé
+        {
+            background-color: rgba(209, 28, 85, 0.944);
+            height: 330px;
+            position: relative;
+            border-radius: 5px;
+        }
+       .Ll
+        {
+            padding: 0px 80px;
+        }
+        .logo
+        {
+            
+            display: flex;
+            flex-direction: space-evenly;
+            justify-content: center;
+          
+            
+        }
+       
+        .Tt2
+        {
+           color: rgb(247, 228, 228);
+             display: flex;
+            
+            justify-content: center;
+           
+        }
+        .ajusteLogo
+        {
+            padding-left: 30px;
+        }
+         .ajusteLogo1
+        {
+            padding-left: 25px;
+        }
+         .ajusteLogo2
+        {
+            padding-left: 43px;
+        }
+         .Tt2:hover
+        {
+            color: rgba(89, 25, 19, 0.944);
+        }
+        .social
+        {
+            color:rgb(247, 228, 228) ;
+            display: flex;
+            justify-content: center;
+            padding-bottom: 50px;  
+            
+        }
+        .SemCriatividade
+        {
+            color:rgb(247, 228, 228) ;
+            padding-top: 50px;
+            padding-left: 20px;
+             
+
+        }
+         .contatoEstilo
+        {
+            text-decoration: none;     
+        }
+       

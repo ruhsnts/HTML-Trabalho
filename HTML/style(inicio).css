@@ -1,0 +1,256 @@
+  html
+        {
+            background-color:rgb(247, 228, 228);
+
+        }
+         p
+        {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+        }
+        
+        .Cabeçalho
+        {
+            background-color: rgba(209, 28, 85, 0.944);
+            height: 60px;
+            position: relative;
+            border-radius: 5px;
+             
+            
+           
+            
+           
+
+        }
+
+        .cabeça
+        {
+            color: rgb(151, 23, 23);
+           font-family: 'Emilys Candy';      
+           padding-left: 15px;
+           padding-right: 15px;
+           background-color:  rgb(247, 228, 228); 
+           margin: 3px;
+            border-radius: 20px;
+            border-color: black;
+            text-decoration: none;
+            
+        }
+        .links
+        {
+            display: flex;
+            flex-direction: space-evenly;
+            position: absolute;
+            padding-top: 34px; 
+            padding-left: 30px;
+             
+           
+           
+             
+        
+        }
+        .letraloja
+        {
+            font-family: 'Henny Penny';
+            font-size: 30px;
+            display: flex;
+            color: rgb(247, 228, 228);  
+            justify-content: flex-end;
+            padding-right: 20px;
+            
+        }
+        .boxImagens
+        {
+           
+             margin: 10px;
+            padding: 10px;
+           display: flex;
+          flex-direction: row;
+           justify-content: center;
+           align-items: center;
+          background-color: rgba(209, 28, 85, 0.944);
+           border-color:rgb(247, 228, 228) ;
+           border-style: double;
+           border-width: 5px;
+           
+           
+           
+        }
+        
+       .imagem
+       {
+        
+        margin: 15px;
+        margin: groove;
+        border-style: solid;
+        border-color: rgba(90, 6, 33, 0.944);
+        border-radius: 5px;
+        border-width: 4px;
+       }
+
+      
+       
+      
+        .inicio
+        {
+            font-size: 30px;
+            color:hwb(341 11% 18% / 0.944);
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            display: flex;
+            justify-content:center ;
+            
+        }
+       .texto1
+       {
+        
+        padding: 40px;
+        
+         
+       }
+       .Tt1
+       {
+        color: rgb(48, 4, 26);
+      
+        padding-left: 30px;
+        padding-right: 30px;
+        font-size: 17px;
+       }
+
+         .Rodapé
+        {
+            background-color: rgba(209, 28, 85, 0.944);
+            height: 330px;
+            position: relative;
+            border-radius: 5px;
+        }
+        .perguntas
+        {
+             font-size: 30px;
+            color:hwb(342 2% 78% / 0.944);
+            font-family:  Verdana, Geneva, Tahoma, sans-serif;
+            padding: 20px;
+            font-weight: 100;
+           
+        }
+        .cabeça:hover
+        {
+            background-color: rgba(89, 25, 19, 0.944);
+            color: rgb(247, 228, 228);
+        }
+        .Ll
+        {
+            padding: 0px 80px;
+        }
+        .logo
+        {
+            
+            display: flex;
+            flex-direction: space-evenly;
+            justify-content: center;
+            
+        }
+       
+        .Tt2
+        {
+           color: rgb(247, 228, 228);
+             display: flex;
+           
+            justify-content: center;
+           
+        }
+        .ajusteLogo
+        {
+            padding-left: 30px;
+        }
+         .ajusteLogo1
+        {
+            padding-left: 25px;
+        }
+         .ajusteLogo2
+        {
+            padding-left: 43px;
+        }
+        .contatoEstilo
+        {
+            text-decoration: none;     
+        }
+        .Tt2:hover
+        {
+            color: rgba(89, 25, 19, 0.944);
+        }
+        .social
+        {
+            color:rgb(247, 228, 228) ;
+            display: flex;
+            justify-content: center;
+            padding-bottom: 50px;      
+        }
+        .SemCriatividade
+        {
+            color:rgb(247, 228, 228) ;
+            padding-top: 50px;
+            padding-left: 20px;
+
+        }
+       .imgConteiner 
+        {
+            position: relative;
+
+        }
+        .letras
+        {
+            position: absolute;
+            top: 5%;
+            left: 4%;
+            font-size: 40px;
+            font-family: 'Oswald';
+            font-weight: 100;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(50, 49, 49, 0.314);
+            height: 264px;
+            width: 393px;
+            
+        }
+        .letrasA
+        {
+            position: absolute;
+           top: 5%;
+            left: 4%;
+            font-size: 40px;
+            font-family: 'Oswald';
+            font-weight: 100;
+            font-style: italic;
+            color: #ffffff;
+            display: flex;
+            flex-direction: space-evenly;
+             background-color: rgba(50, 49, 49, 0.314);
+              display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(50, 49, 49, 0.314);
+            height: 264px;
+            width: 393px;
+        }
+        .letras:hover
+        {
+             color: #ffffff;
+            background-color: rgba(21, 21, 21, 0.605); 
+        }
+        .letrasA:hover
+        {
+             color: #ffffff;
+            background-color: rgba(21, 21, 21, 0.605); 
+        }
+
+       
+        
+
+
+        
+      
+       
+       
+       

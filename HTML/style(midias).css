@@ -1,0 +1,213 @@
+  html
+        {
+            background-color:rgb(247, 228, 228);
+
+        }
+         p
+        {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20pxs;
+        }
+        .aviso
+        {
+            display: flex;
+            justify-content: center;
+            color: rgba(104, 16, 44, 0.944);
+        
+        }
+        
+        .Cabeçalho
+        {
+            background-color: rgba(209, 28, 85, 0.944);
+            height: 60px;
+            position: relative;
+            border-radius: 5px;
+             
+            
+           
+            
+           
+
+        }
+
+        .cabeça
+        {
+            color: rgb(151, 23, 23);
+           font-family: 'Emilys Candy';      
+           padding-left: 15px;
+           padding-right: 15px;
+           background-color:  rgb(247, 228, 228); 
+           margin: 3px;
+            border-radius: 20px;
+            border-color: black;
+            text-decoration: none;
+            
+        }
+        .links
+        {
+            display: flex;
+            flex-direction: space-evenly;
+            position: absolute;
+            padding-top: 34px; 
+            padding-left: 30px;
+             
+           
+           
+             
+        
+        }
+         .Inicio
+        {
+            font-size: 30px;
+            color:rgba(209, 28, 85, 0.944);
+            font-family:  Verdana, Geneva, Tahoma, sans-serif;
+            display: flex;
+            justify-content:center ;
+            font-weight: 100;
+            
+        }
+        .letraloja
+        {
+            font-family: 'Henny Penny';
+            font-size: 30px;
+            display: flex;
+            color: rgb(247, 228, 228);  
+            justify-content: flex-end;
+            padding-right: 20px;
+            
+        }
+          .cabeça:hover
+        {
+            background-color: rgba(89, 25, 19, 0.944);
+            color: rgb(247, 228, 228);
+        }
+        .imagemInicio
+        {
+            
+            display: flex;
+            justify-content: center;
+        }
+        .bordinhas
+        {
+              margin: 15px;
+        margin: groove;
+        border-style: solid;
+        border-color: rgba(90, 6, 33, 0.944);
+        border-radius: 20px;
+        border-width: 4px;
+        }
+        .Vil
+        {
+              display: flex;
+            justify-content: center;
+           
+        }
+        .Epel
+        {
+            color: #940808;
+            font-size: 20px;
+            font-family:  Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 100;
+           
+              background-color:rgb(247, 228, 228);
+            margin: 10px;
+            border: 10px;
+            border-color:hwb(6 10% 24% / 0.944);
+            border-style: solid;
+            border-radius: 20px; 
+            height: 80px;
+            width: 580px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+           
+            
+            
+        }
+        .letrinhas
+        {
+             display: flex;
+            justify-content: center;
+            font-family: serif;
+           
+        }
+         .final
+        {
+            font-size: 30px;
+            color:rgba(209, 28, 85, 0.944);
+           
+            font-family:  Verdana, Geneva, Tahoma, sans-serif;
+            display: flex;
+            justify-content:center ;
+            font-weight: 100;
+            border-color:rgb(117, 8, 33) ;
+            border-style: dotted;
+           
+            
+        }
+        .Rodapé
+        {
+            background-color: rgba(209, 28, 85, 0.944);
+            height: 330px;
+            position: relative;
+            border-radius: 5px;
+        }
+       .Ll
+        {
+            padding: 0px 80px;
+        }
+        .logo
+        {
+            
+            display: flex;
+            flex-direction: space-evenly;
+            justify-content: center;
+          
+            
+        }
+       
+        .Tt2
+        {
+           color: rgb(247, 228, 228);
+             display: flex;
+            
+            justify-content: center;
+           
+        }
+        .ajusteLogo
+        {
+            padding-left: 30px;
+        }
+         .ajusteLogo1
+        {
+            padding-left: 25px;
+        }
+         .ajusteLogo2
+        {
+            padding-left: 43px;
+        }
+         .Tt2:hover
+        {
+            color: rgba(89, 25, 19, 0.944);
+        }
+        .social
+        {
+            color:rgb(247, 228, 228) ;
+            display: flex;
+            justify-content: center;
+            padding-bottom: 50px;  
+            
+        }
+        .SemCriatividade
+        {
+            color:rgb(247, 228, 228) ;
+            padding-top: 50px;
+            padding-left: 20px;
+             
+
+        }
+         .contatoEstilo
+        {
+            text-decoration: none;     
+        }
+       
